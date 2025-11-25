@@ -372,7 +372,7 @@ Les contributions sont les bienvenues ! Veuillez :
 
 Pour toute question ou problème :
 - Ouvrir une issue sur GitHub
-- Email : support@rideup.app
+
 
 ## 🎯 Roadmap
 
